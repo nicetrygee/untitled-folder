@@ -1,2 +1,2 @@
 // the hello world program
-console.log('I hate credential caching!');
+console.log('Hello World');
